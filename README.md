@@ -9,3 +9,10 @@ Prerequisites for Office 365 and Exchange Server
   2. Custom Domain 
   
  1. How to Create a Office 365 Trial Account
+     
+     Using the below Link Create a Microsoft office 365 Devloper account for 90 Days
+     and you will be give 25 Licenses along with the same.
+    https://developer.microsoft.com/en-us/microsoft-365/dev-program
+    ![image](https://user-images.githubusercontent.com/66707747/215747946-11e51865-34c6-4bfc-9760-cd9189b247ec.png)
+    
+
