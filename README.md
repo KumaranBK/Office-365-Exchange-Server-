@@ -14,5 +14,11 @@ Prerequisites for Office 365 and Exchange Server
      and you will be give 25 Licenses along with the same.
     https://developer.microsoft.com/en-us/microsoft-365/dev-program
     ![image](https://user-images.githubusercontent.com/66707747/215747946-11e51865-34c6-4bfc-9760-cd9189b247ec.png)
-    
+
+
+     Add your Microsoft account and password 
+		 Fill the personal details
+		 Select Personal Project then go Next 
+		 a default admin account will be created and the license valid for 90 days
+		 
 
